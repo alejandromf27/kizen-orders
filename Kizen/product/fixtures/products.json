@@ -1,0 +1,164 @@
+[
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 1,
+            "name": "Blue T-shirts",
+            "description": "description of Blue T-shirts",
+            "price": 5.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 2,
+            "name": "White T-shirts",
+            "description": "description of White T-shirts",
+            "price": 5.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 3,
+            "name": "Silicone protective cover X3 Soul Style",
+            "description": "description of Silicone protective cover X3 Soul Style",
+            "price": 5.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 4,
+            "name": "V2 Viper I flip cover",
+            "description": "description of V2 Viper I flip cover",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 5,
+            "name": "Android TV 58\"/ 58ATA6000-U",
+            "description": "description of Android TV 58\"/ 58ATA6000-U",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 6,
+            "name": "Smart TV 50\" / 50ATS5100-UN",
+            "description": "description of Smart TV 50\" / 50ATS5100-UN",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 7,
+            "name": "Red T-shirts",
+            "description": "description of Red T-shirts",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 8,
+            "name": "Pink T-shirts",
+            "description": "description of Pink T-shirts",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 9,
+            "name": "Silicone protective cover X5 Soul Style",
+            "description": "description of Silicone protective cover X5 Soul Style",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 10,
+            "name": "V7 Viper I flip cover",
+            "description": "description of V7 Viper I flip cover",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 11,
+            "name": "Android TV 32\"/ TA6000-U",
+            "description": "description of Android TV 32\"/ TA6000-U",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 12,
+            "name": "Smart TV 65\" / 65ATS5100-UN",
+            "description": "description of Smart TV 65\" / 65ATS5100-UN",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 13,
+            "name": "Black T-shirts",
+            "description": "description of Black T-shirts",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 14,
+            "name": "Green T-shirts",
+            "description": "description of Green T-shirts",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 15,
+            "name": "Silicone protective cover X8 Soul Style",
+            "description": "description of Silicone protective cover X8 Soul Style",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 16,
+            "name": "V1 Viper I flip cover",
+            "description": "description of V1 Viper I flip cover",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 17,
+            "name": "Android TV 40\"/ 40ATA6000-U",
+            "description": "description of Android TV 40\"/ 40ATA6000-U",
+            "price": 10.0
+        }
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "id": 18,
+            "name": "Smart TV 70\" / 70ATS5100-UN",
+            "description": "description of Smart TV 70\" / 70ATS5100-UN",
+            "price": 10.0
+        }
+    }
+]

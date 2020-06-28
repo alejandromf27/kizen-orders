@@ -1,0 +1,18 @@
+# Web framework
+Django~=3.0.7
+# DRF
+djangorestframework==3.11.0
+# PostgreSQL database adapter
+psycopg2==2.8.5
+# Python server
+gunicorn==20.0.4
+# OAuth2 authentication
+django-oauth-toolkit==1.3.2
+# add middleware
+django-cors-middleware==1.5.0
+# use it to generate token
+oauthlib~=3.1.0
+# Image manage
+Pillow==7.1.2
+# Sequences
+django-sequences==2.5
